@@ -1,0 +1,23 @@
+html {
+    user-select: none;
+}
+
+img {
+    position: absolute;
+}
+
+svg {
+    position: absolute;
+}
+
+path.f480 { 
+    transition: fill 480ms ease; 
+}
+
+path.f960 {
+    transition: fill 960ms ease;
+}
+
+path.flashing {
+    transition: fill 5ms ease; 
+}
